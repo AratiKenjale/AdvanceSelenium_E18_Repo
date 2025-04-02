@@ -43,7 +43,7 @@ public class AddProductTest_testNG extends BaseClass
 {
 
 	@Test
-public void createProduct() throws IOException, InterruptedException 
+public void addProductTest() throws IOException, InterruptedException 
 {
 	
 	javaUtility jUtil= new javaUtility();
