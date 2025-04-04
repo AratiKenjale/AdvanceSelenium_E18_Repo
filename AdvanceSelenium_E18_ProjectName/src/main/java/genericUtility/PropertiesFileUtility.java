@@ -8,7 +8,7 @@ public class PropertiesFileUtility
 {
 public String readingDataFromPropFile(String Key) throws IOException
 {
-	FileInputStream file= new FileInputStream("E:\\Workspace1\\AdvanceSelenium_E18_ProjectName\\src\\test\\resources\\ninza.properties");
+	FileInputStream file= new FileInputStream("C:\\Users\\ADMIN\\Git\\NinzaCRM\\AdvanceSelenium_E18_ProjectName\\src\\test\\resources\\ninza.properties");
 	
 	Properties prop= new Properties();
 	prop.load(file);

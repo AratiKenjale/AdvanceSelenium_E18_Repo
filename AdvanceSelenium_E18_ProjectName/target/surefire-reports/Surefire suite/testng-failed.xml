@@ -29,10 +29,23 @@
           <include name="afterClass"/>
         </methods>
       </class> <!-- product.AddProductTest -->
-      <class name="campaignPage.CreateCampaignTest">
+      <class name="ninzaLogin.LoginTest">
         <methods>
           <include name="beforeMethod"/>
-          <include name="createCampaign"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="loginTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- ninzaLogin.LoginTest -->
+      <class name="campaignPage.CreateCampaignTest">
+        <methods>
+          <include name="createCampaignTest"/>
+          <include name="beforeMethod"/>
           <include name="beforeClass"/>
           <include name="afterMethod"/>
           <include name="beforeSuite"/>

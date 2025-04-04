@@ -36,7 +36,7 @@ PropertiesFileUtility pro= new PropertiesFileUtility();
 public void beforeSuite() throws SQLException
 {
 	System.out.println("Established database connection");
-	dbUtil.gettDBConnection("jdbc:mysql://localhost:3306/Ninza_E18","root","rmgy@9999");
+	dbUtil.gettDBConnection("jdbc:mysql://localhost:3306/Ninza_E18","root","Mysqlroot@123");
 }
 @BeforeTest
 public void beforeTest()
