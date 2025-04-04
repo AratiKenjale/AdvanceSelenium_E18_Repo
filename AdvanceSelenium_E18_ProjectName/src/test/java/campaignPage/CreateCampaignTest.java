@@ -38,7 +38,7 @@ import objectRepository.LoginPage;
 public class CreateCampaignTest extends BaseClass
 {
 	@Test
-	public void createCampaign() throws InterruptedException, IOException 
+	public void createCampaignTest() throws InterruptedException, IOException 
 	{
 		javaUtility jUtil= new javaUtility();
 		int randomNum = jUtil.getRandomNum(2000);

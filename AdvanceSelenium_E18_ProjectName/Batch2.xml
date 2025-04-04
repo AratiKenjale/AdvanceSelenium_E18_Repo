@@ -6,10 +6,10 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="contactPage.CreateContactWithCampaignTest_testNG"/>
-      <class name="product.AddProductTest_testNG"/>
-      <class name="ninzaLogin.LoginTest_testNG"/>
-      <class name="campaignPage.CreateCampaignTest_testNG"/>
+      <class name="contactPage.CreateContactWithCampaignTest"/>
+      <class name="product.AddProductTest"/>
+      <class name="ninzaLogin.LoginTest"/>
+      <class name="campaignPage.CreateCampaignTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
