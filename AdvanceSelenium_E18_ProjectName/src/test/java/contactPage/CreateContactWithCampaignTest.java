@@ -40,7 +40,7 @@ import objectRepository.DashboardPage;
 import objectRepository.LoginPage;
 
 //@Listeners(ListenerImplementation.class)
-public class CreateContactWithCampaignTest_testNG extends BaseClass
+public class CreateContactWithCampaignTest extends BaseClass
 {
 	//@Parameters("browser")
 	@Test

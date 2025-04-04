@@ -2,128 +2,128 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[CampaignCAM_562 added successsfully ]]>
+      <![CDATA[CampaignCAM_1242 added successsfully ]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-01T19:20:25 IST" name="Suite" finished-at="2025-04-01T19:21:39 IST" duration-ms="74280">
+  <suite started-at="2025-04-02T20:41:42 IST" name="Suite" finished-at="2025-04-02T20:43:18 IST" duration-ms="96037">
     <groups>
     </groups>
-    <test started-at="2025-04-01T19:20:25 IST" name="Test" finished-at="2025-04-01T19:21:39 IST" duration-ms="74280">
+    <test started-at="2025-04-02T20:41:42 IST" name="Test" finished-at="2025-04-02T20:43:18 IST" duration-ms="96037">
       <class name="ninzaLogin.LoginTest_testNG">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-01T19:21:02 IST" name="beforeClass" finished-at="2025-04-01T19:21:04 IST" duration-ms="2754" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-02T20:42:34 IST" name="beforeClass" finished-at="2025-04-02T20:42:38 IST" duration-ms="3506" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-01T19:21:04 IST" name="beforeMethod" finished-at="2025-04-01T19:21:09 IST" duration-ms="4266" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-02T20:42:38 IST" name="beforeMethod" finished-at="2025-04-02T20:42:42 IST" duration-ms="4414" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="loginTest()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-01T19:21:09 IST" name="loginTest" finished-at="2025-04-01T19:21:13 IST" duration-ms="4475" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-02T20:42:42 IST" name="loginTest" finished-at="2025-04-02T20:42:46 IST" duration-ms="4554" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-01T19:21:13 IST" name="afterMethod" finished-at="2025-04-01T19:21:13 IST" duration-ms="156" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-02T20:42:47 IST" name="afterMethod" finished-at="2025-04-02T20:42:47 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-01T19:21:13 IST" name="afterClass" finished-at="2025-04-01T19:21:14 IST" duration-ms="443" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ninzaLogin.LoginTest_testNG@7f485fda]" started-at="2025-04-02T20:42:47 IST" name="afterClass" finished-at="2025-04-02T20:42:48 IST" duration-ms="835" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- ninzaLogin.LoginTest_testNG -->
       <class name="product.AddProductTest_testNG">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-01T19:20:49 IST" name="beforeClass" finished-at="2025-04-01T19:20:52 IST" duration-ms="2600" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-02T20:42:17 IST" name="beforeClass" finished-at="2025-04-02T20:42:21 IST" duration-ms="4009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-01T19:20:52 IST" name="beforeMethod" finished-at="2025-04-01T19:20:55 IST" duration-ms="3944" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-02T20:42:21 IST" name="beforeMethod" finished-at="2025-04-02T20:42:26 IST" duration-ms="5697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="createProduct()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-01T19:20:55 IST" name="createProduct" finished-at="2025-04-01T19:21:01 IST" duration-ms="5321" status="PASS">
+        <test-method signature="addProductTest()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-02T20:42:26 IST" name="addProductTest" finished-at="2025-04-02T20:42:33 IST" duration-ms="6554" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createProduct -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-01T19:21:01 IST" name="afterMethod" finished-at="2025-04-01T19:21:01 IST" duration-ms="173" status="PASS">
+        </test-method> <!-- addProductTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-02T20:42:33 IST" name="afterMethod" finished-at="2025-04-02T20:42:33 IST" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-01T19:21:01 IST" name="afterClass" finished-at="2025-04-01T19:21:02 IST" duration-ms="604" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:product.AddProductTest_testNG@4b29d1d2]" started-at="2025-04-02T20:42:33 IST" name="afterClass" finished-at="2025-04-02T20:42:34 IST" duration-ms="723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- product.AddProductTest_testNG -->
       <class name="contactPage.CreateContactWithCampaignTest_testNG">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:24 IST" name="beforeSuite" finished-at="2025-04-01T19:20:25 IST" duration-ms="843" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:41:41 IST" name="beforeSuite" finished-at="2025-04-02T20:41:42 IST" duration-ms="1529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:25 IST" name="beforeTest" finished-at="2025-04-01T19:20:25 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:41:42 IST" name="beforeTest" finished-at="2025-04-02T20:41:42 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:25 IST" name="beforeClass" finished-at="2025-04-01T19:20:28 IST" duration-ms="2857" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:41:42 IST" name="beforeClass" finished-at="2025-04-02T20:41:51 IST" duration-ms="8237" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:28 IST" name="beforeMethod" finished-at="2025-04-01T19:20:32 IST" duration-ms="3583" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:41:51 IST" name="beforeMethod" finished-at="2025-04-02T20:41:56 IST" duration-ms="5206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="createContactWithCampaignTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:32 IST" name="createContactWithCampaignTest" finished-at="2025-04-01T19:20:48 IST" duration-ms="16746" status="PASS">
+        <test-method signature="createContactWithCampaignTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:41:56 IST" name="createContactWithCampaignTest" finished-at="2025-04-02T20:42:16 IST" duration-ms="19857" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[CampaignCAM_562 added successsfully ]]>
+              <![CDATA[CampaignCAM_1242 added successsfully ]]>
             </line>
           </reporter-output>
         </test-method> <!-- createContactWithCampaignTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:48 IST" name="afterMethod" finished-at="2025-04-01T19:20:49 IST" duration-ms="145" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:42:16 IST" name="afterMethod" finished-at="2025-04-02T20:42:16 IST" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:20:49 IST" name="afterClass" finished-at="2025-04-01T19:20:49 IST" duration-ms="421" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:42:16 IST" name="afterClass" finished-at="2025-04-02T20:42:17 IST" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:21:39 IST" name="afterTest" finished-at="2025-04-01T19:21:39 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:43:18 IST" name="afterTest" finished-at="2025-04-02T20:43:18 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-01T19:21:40 IST" name="afterSuite" finished-at="2025-04-01T19:21:40 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:contactPage.CreateContactWithCampaignTest_testNG@79e4c792]" started-at="2025-04-02T20:43:20 IST" name="afterSuite" finished-at="2025-04-02T20:43:20 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- contactPage.CreateContactWithCampaignTest_testNG -->
       <class name="campaignPage.CreateCampaignTest_testNG">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:14 IST" name="beforeClass" finished-at="2025-04-01T19:21:16 IST" duration-ms="2472" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:42:48 IST" name="beforeClass" finished-at="2025-04-02T20:42:50 IST" duration-ms="2787" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:16 IST" name="beforeMethod" finished-at="2025-04-01T19:21:19 IST" duration-ms="3306" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:42:50 IST" name="beforeMethod" finished-at="2025-04-02T20:42:56 IST" duration-ms="5380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="createCampaignTest()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:19 IST" name="createCampaignTest" finished-at="2025-04-01T19:21:29 IST" duration-ms="9129" status="PASS">
+        <test-method signature="createCampaign()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:42:56 IST" name="createCampaign" finished-at="2025-04-02T20:43:05 IST" duration-ms="9326" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createCampaignTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:29 IST" name="afterMethod" finished-at="2025-04-01T19:21:29 IST" duration-ms="203" status="PASS">
+        </test-method> <!-- createCampaign -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:43:05 IST" name="afterMethod" finished-at="2025-04-02T20:43:05 IST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:29 IST" name="beforeMethod" finished-at="2025-04-01T19:21:31 IST" duration-ms="2214" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:43:05 IST" name="beforeMethod" finished-at="2025-04-02T20:43:09 IST" duration-ms="4039" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="createCampaignWithDateTest()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:31 IST" name="createCampaignWithDateTest" finished-at="2025-04-01T19:21:39 IST" duration-ms="7697" status="PASS">
+        <test-method signature="createCampaignWithDateTest()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:43:09 IST" name="createCampaignWithDateTest" finished-at="2025-04-02T20:43:17 IST" duration-ms="7829" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createCampaignWithDateTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:39 IST" name="afterMethod" finished-at="2025-04-01T19:21:39 IST" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:43:17 IST" name="afterMethod" finished-at="2025-04-02T20:43:18 IST" duration-ms="335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-01T19:21:39 IST" name="afterClass" finished-at="2025-04-01T19:21:39 IST" duration-ms="461" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:campaignPage.CreateCampaignTest_testNG@28261e8e]" started-at="2025-04-02T20:43:18 IST" name="afterClass" finished-at="2025-04-02T20:43:18 IST" duration-ms="773" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

@@ -35,7 +35,7 @@ import objectRepository.DashboardPage;
 import objectRepository.LoginPage;
 
 //@Listeners(ListenerImplementation.class)
-public class CreateCampaignTest_testNG extends BaseClass
+public class CreateCampaignTest extends BaseClass
 {
 	@Test
 	public void createCampaign() throws InterruptedException, IOException 
